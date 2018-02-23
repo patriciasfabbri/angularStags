@@ -1,3 +1,4 @@
+
 .main-header{
     background: linear-gradient(to bottom right, #FF5800, #FFB414);
     max-width: 1080px;
@@ -31,3 +32,11 @@
     color: white;
     padding-right: 10px;
 }
+.container {
+    max-width: 1080px;
+    width: 100%;
+    background-color: gainsboro;
+    margin-top: 50px;
+    float: left;
+}
+
