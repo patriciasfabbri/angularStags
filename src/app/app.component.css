@@ -1,0 +1,7 @@
+.container {
+    max-width: 1080px;
+    width: 100%;
+    background-color: gainsboro;
+    margin-top: 50px;
+    float: left;
+}
